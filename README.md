@@ -1,5 +1,3 @@
-<img align="left" width="60" height="60" src="./assets/icon.ico">
-
 # Armored Core VI Web Emblem Creator
 
 Armored Core 6 Emblem Tool for use in the Armored Core 6 Garage Simulator.
